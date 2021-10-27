@@ -5,4 +5,5 @@
 
 
 The output would be similar to this:
+
 ![Alt Text](output.gif)
